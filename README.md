@@ -2,6 +2,8 @@
 This project explores the use of Graph Neural Networks (GNNs) to model and predict interparticle normal contact forces in granular assemblies under uniaxial compression.
 Traditional Discrete Element Method (DEM) simulations are computationally expensive when modeling force chains in large particle systems. By leveraging GNNs, we aim to provide a faster, accurate, and scalable alternative for force prediction in particulate systems. 
 
+**I have shared here, snippets from my Python notebook containing te full GNN code for the project, to show the broad working and results. It may not be replicated or used without obtaining permission.**
+
 **Objectives:**
 - Develop a GNN-based model to predict normal contact forces in granular materials.
 - Preprocess and structure large-scale DEM datasets (~10 million data points) into node/edge feature graphs.
